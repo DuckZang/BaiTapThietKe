@@ -17,6 +17,19 @@
         <entry key="..\:/FPT POLY/BaiTapThietKe/app/src/main/res/layout/login_screen.xml" value="0.4753289473684211" />
         <entry key="..\:/FPT POLY/BaiTapThietKe/app/src/main/res/layout/login_screen_activity.xml" value="0.16666666666666666" />
         <entry key="..\:/FPT POLY/BaiTapThietKe/app/src/main/res/layout/update_user_activity.xml" value="0.22" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/drawable/background_btn.xml" value="0.132" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/drawable/background_gradient.xml" value="0.132" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/drawable/ic_mail.xml" value="0.132" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/drawable/ic_mail_update.xml" value="0.132" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/login_fragment.xml" value="0.1" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/login_screen_activity.xml" value="0.1" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/sign_up_fragment.xml" value="0.11333333333333334" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/update_password_fragment.xml" value="0.1796875" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/update_user_activity.xml" value="0.12" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/update_user_fragmenr.xml" value="0.1331521739130435" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/update_user_fragment.xml" value="0.12" />
+        <entry key="..\:/FPT POLY/BaiTapThietKe1/app/src/main/res/layout/user_fragment.xml" value="0.22" />
       </map>
     </option>
   </component>
