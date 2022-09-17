@@ -20,9 +20,9 @@ public class UpdatePasswordFragment extends Fragment {
         View view = inflater.inflate(R.layout.update_password_fragment,container,false);
         ImageView turnBack = view.findViewById(R.id.back);
         turnBack.setOnClickListener(v ->{
-            LoginFragment loginFragment = new LoginFragment();
+            UserFragment userFragment = new UserFragment();
             FragmentManager manager = getActivity().getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.Frame,loginFragment).commit();
+            manager.beginTransaction().replace(R.id.Frame,userFragment).commit();
         });
         return view;
     }

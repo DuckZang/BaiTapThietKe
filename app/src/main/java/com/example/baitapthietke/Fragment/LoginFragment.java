@@ -20,12 +20,6 @@ public class LoginFragment extends Fragment {
         View view = inflater.inflate(R.layout.login_fragment,container,false);
         TextView tv2 = view.findViewById(R.id.tv2);
         TextView tvSignUp = view.findViewById(R.id.tvSignUp);
-        TextView updatePass = view.findViewById(R.id.updatePass);
-        updatePass.setOnClickListener(v ->{
-            UpdatePasswordFragment updatePasswordFragment = new UpdatePasswordFragment();
-            FragmentManager manager = getActivity().getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.Frame,updatePasswordFragment).commit();
-        });
 
         tv2.setOnClickListener(v ->{
             UserFragment userFragment = new UserFragment();
